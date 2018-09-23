@@ -1,0 +1,105 @@
+body {
+  font-family: fantasy;
+  font-style: normal;
+  padding-top:  0px;
+
+}
+
+h2  {
+  padding-top: 50px;
+}
+
+#navbar {
+  /*background-color: #FFF0000*/
+  background-color: #800000;
+}
+/*change color to white*/
+#text {
+  /*background-color: #000000;*/
+  color: #FFFFFF;
+}
+.d-block {
+  height: 80%;
+}
+
+.footer {
+  position: static;
+  margin-top: 50px;
+  bottom: 0;
+  width: 100%;
+  line-height: 50px; /* Vertically center the text there */
+  background-color: #A9A9A9;
+}
+h5  {
+  text-align: left;
+  padding-top: 10px;
+}
+
+
+.col-centered {
+  display:inline-block;
+  float:none;
+  margin-right:-4px;
+}
+
+#images{
+  width: inherit;
+  height:200px;
+}
+
+/*modal styling*/
+
+.card-img-top {
+color: #fff;
+height: 200px;
+background: url(images/s9+.jpg);
+background-size: cover;
+}
+
+h4  {
+  padding-top: 0;
+}
+
+.card-text {
+  font-family: monospace;
+  font-style: normal;
+  font-size: 14px;
+  float: left;
+  padding-left: 10px;
+  line-height: 20px;
+}
+label {
+  font-family: monospace;
+  font-style: normal;
+  font-size: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  line-height: 20px;
+  width: 100%;
+}
+
+.col-md-3 {
+padding-left: 10px;
+}
+
+#quantity-label {
+  padding-left: 5px;
+  margin-left: 0;
+}
+#quantity{
+  margin-left: 5px;
+}
+#img-modal {
+  padding-top: 10px;
+
+}
+
+.modal-footer{
+  padding-top: 10px;
+}
+
+img.card-img-bottom {
+  width: inherit;
+  margin: 15px auto;
+  height: 200px;
+}
